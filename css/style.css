@@ -1,0 +1,41 @@
+.tete{
+  background-color: #DCDCDC;
+  border-radius: 20px;
+  height: 40px;
+  margin: 5px;
+  margin-top: 30px;
+ padding-top:  10px;
+ text-align: center;
+ padding-right: 13px;
+ padding-left: 13px;
+  display: inline-block;
+  position: relative
+
+}
+.active{ 
+ border-bottom: 4px solid blue;
+ color: blue;
+  text-decoration: none;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+ }
+ h3, h2, p{
+  text-align: center;
+ }
+ .new{
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+ }
+ .rond{
+   width: 10px;
+  height: 10px;
+ border-radius: 50px;
+ background-color: blue;
+  position: relative;
+   right: -5px;
+  bottom: 45px;
+
+ }
+ 
+ 
